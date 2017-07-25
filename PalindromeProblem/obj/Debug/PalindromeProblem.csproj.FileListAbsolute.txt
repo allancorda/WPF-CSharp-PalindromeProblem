@@ -1,0 +1,13 @@
+C:\Users\WebDev\Desktop\PalindromeProblem\PalindromeProblem\bin\Debug\PalindromeProblem.exe
+C:\Users\WebDev\Desktop\PalindromeProblem\PalindromeProblem\bin\Debug\PalindromeProblem.pdb
+C:\Users\WebDev\Desktop\PalindromeProblem\PalindromeProblem\obj\Debug\PalindromeProblem.csprojResolveAssemblyReference.cache
+C:\Users\WebDev\Desktop\PalindromeProblem\PalindromeProblem\obj\Debug\MainWindow.g.cs
+C:\Users\WebDev\Desktop\PalindromeProblem\PalindromeProblem\obj\Debug\App.g.cs
+C:\Users\WebDev\Desktop\PalindromeProblem\PalindromeProblem\obj\Debug\PalindromeProblem_MarkupCompile.cache
+C:\Users\WebDev\Desktop\PalindromeProblem\PalindromeProblem\obj\Debug\PalindromeProblem_MarkupCompile.lref
+C:\Users\WebDev\Desktop\PalindromeProblem\PalindromeProblem\obj\Debug\MainWindow.baml
+C:\Users\WebDev\Desktop\PalindromeProblem\PalindromeProblem\obj\Debug\PalindromeProblem.g.resources
+C:\Users\WebDev\Desktop\PalindromeProblem\PalindromeProblem\obj\Debug\PalindromeProblem.Properties.Resources.resources
+C:\Users\WebDev\Desktop\PalindromeProblem\PalindromeProblem\obj\Debug\PalindromeProblem.csproj.GenerateResource.Cache
+C:\Users\WebDev\Desktop\PalindromeProblem\PalindromeProblem\obj\Debug\PalindromeProblem.exe
+C:\Users\WebDev\Desktop\PalindromeProblem\PalindromeProblem\obj\Debug\PalindromeProblem.pdb
