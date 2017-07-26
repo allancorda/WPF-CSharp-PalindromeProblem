@@ -61,11 +61,25 @@ namespace PalindromeProblem
             return true;
         }
 
+        private bool CheckPalindrome2()
+        {
+            int i, j;
+            for (j = (txtAns.Text.Length - 1), i = 0; i < j; i++,j--)
+            {
+                if (txtAns.Text[i] != txtAns.Text[j])
+                {
+                    return false;
+                }
+
+            }
+            return true;
+        }
+
         private void button_Click(object sender, RoutedEventArgs e)
         {
             if (txtAns.Text.Length > 2)
             {
-                if (CheckPalindrome(GetMiddlePoint()))
+                if (CheckPalindrome2())
                     lblResult.Content = "True";
                 else
                     lblResult.Content = "False";
